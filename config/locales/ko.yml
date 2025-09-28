@@ -27,8 +27,8 @@
 #       "yes": yup
 #       enabled: "ON"
 
-en:
-  hello: "Hello world"
+ko:
+  hello: "안녕하세요."
   products:
     index:
-      title: "Products"
+      title: "제품"
